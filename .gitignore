@@ -1,0 +1,14 @@
+.vscode/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+*.elf
+*.gcda
+*.gcno
+*.gcov
+.DS_Store
